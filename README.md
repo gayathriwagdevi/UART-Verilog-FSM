@@ -27,6 +27,11 @@ Baud generator provides the timing signal (`baud_tick`) used by both TX and RX m
 ![Block Diagram](diagrams/block_diagram.png)
 
 ---
+# Circuit Diagram
+
+![Circuit Diagram](diagrams/circuit_diagram.png)
+
+---
 
 # FSM Design
 
